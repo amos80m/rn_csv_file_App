@@ -1,4 +1,4 @@
-# React-Native + Mobix + Starter kit
+# React-Native + CSV
 
 A React-Native starter kit using Mobx & React native navigation
 
@@ -12,7 +12,3 @@ $ yarn
 $ react-native link(for font & icons)
 $ react-native run-ios/run-android
 ```
-react-native verssion "0.55.4"
-
-### Intro
-![](./s.gif)
